@@ -26,3 +26,5 @@ O `docker-compose.yml` faz a orquestração dos 3 serviços.
 * **redis:** Serviço Redis, usado para cachear as respostas da API de Produtos, melhorando a performance das chamadas subsequentes.
 
 A rede Docker (`app-network`) conecta todos os serviços juntos permitindo comunicação interna por nomes do serviço.
+
+![pogramacao e jiujitso](pogramacao_jiujitso.png)
